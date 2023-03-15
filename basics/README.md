@@ -4,3 +4,4 @@
 4) shows directory contents including hidden contents in long format
 5) shows directory contents including hidden contents and with user and group IDs displayed numerical
 6)  created directory in tmp directory
+7) Moved file to another directory
