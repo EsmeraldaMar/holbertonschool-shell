@@ -6,3 +6,4 @@
 6)  created directory in tmp directory
 7) Moved file to another directory
 8) Deleted betty file in tmp/my first directory
+9) deleted my_first_directory in tmp directory
