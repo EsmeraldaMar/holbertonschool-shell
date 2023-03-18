@@ -9,3 +9,4 @@
 9) deleted my_first_directory in tmp directory
 10) it takes you from working directory to previous directory
 11)lists all files including hidden files,from current directory, parent directory and boot directory
+12) it tells us what type of file it is 
