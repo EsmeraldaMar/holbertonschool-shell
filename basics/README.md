@@ -11,3 +11,4 @@
 11)lists all files including hidden files,from current directory, parent directory and boot directory
 12) it tells us what type of file it is
 13) it cvreates a symbolic link, it creates shortcuts and points to the original file /bin/ls
+14) it copies all HTML files that were not present in parent directory or are newer versions of previous files in parent directory, in current directory and copies to the parent directory
