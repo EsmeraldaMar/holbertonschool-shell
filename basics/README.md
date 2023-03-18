@@ -7,4 +7,5 @@
 7) Moved file to another directory
 8) Deleted betty file in tmp/my first directory
 9) deleted my_first_directory in tmp directory
-10) it takes you from working directory to previous directory 
+10) it takes you from working directory to previous directory
+11)lists all files including hidden files,from current directory, parent directory and boot directory
