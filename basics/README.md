@@ -14,3 +14,4 @@
 14) it copies all HTML files that were not present in parent directory or are newer versions of previous files in parent directory, in current directory and copies to the parent directory
 15) it moves all files that start with an uppercase letter to the tmp/u directory
 16) it deletes all files in the current working directory that end with a character ~
+17) it creates multiple directories in the same directory at once. 
