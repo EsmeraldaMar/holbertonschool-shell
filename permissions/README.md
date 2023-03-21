@@ -3,4 +3,5 @@
 2) it prints all the groups the current user is part of.
 3) changes owner for the file to the user betty
 4) creates an empty file called hello
-5) adds permission for owner of file 'hello' to execute 
+5) adds permission for owner of file 'hello' to execute
+6) it adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
