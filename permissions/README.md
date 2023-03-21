@@ -8,4 +8,5 @@
 7) it adds execute permissiohn to owner, group owner and other users to the file 'hello'
 8) it sets the file hello permissions Owner: no permission at all, Group: no permission at all
 Other users: all the permissions.
-9) it sets permissions on hello file to -rwxr-x-wx 
+9) it sets permissions on hello file to -rwxr-x-wx
+10) it sets the permission mode of the file hello the same as olleh’s mode.
