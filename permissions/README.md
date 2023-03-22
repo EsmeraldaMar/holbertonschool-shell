@@ -14,4 +14,5 @@ Other users: all the permissions.
 12)it creates a directory called 'my_dir' with permissions 751 in the working directory
 13) it changes the group owner to school for the file 'hello'
 14) it  changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
-15) ti changes the owner and group owner of the hello file (symbolic link _hello) to vincent and staff
+15) it changes the owner and group owner of the hello file (symbolic link _hello) to vincent and staff
+16) it changes the owner of the file hello to vincent only if it is owned by the user guillaume
