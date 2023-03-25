@@ -4,3 +4,4 @@
 3) it displays content of the /etc/passwd file and /etc/hosts simultaneously.
 4) it Displays the last 10 lines of /etc/passwd file.
 5)it Displays the first 10 lines of /etc/passwd.
+6) it displays the third line of the file iacta.
