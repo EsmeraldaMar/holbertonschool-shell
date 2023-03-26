@@ -20,3 +20,4 @@
 19) it Replace all characters A and c from input to Z and e respectively.
 20)it  removes all letters c and C from input.
 21) it reverses the input.
+22) it displays all users and their home directories, sorted by users.
