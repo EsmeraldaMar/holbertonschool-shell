@@ -19,4 +19,4 @@
 18)Display all lines of the file /etc/ssh/sshd_config starting with a letter, including capital letters.
 19) it Replace all characters A and c from input to Z and e respectively.
 20)it  removes all letters c and C from input.
-
+21) it reverses the input.
